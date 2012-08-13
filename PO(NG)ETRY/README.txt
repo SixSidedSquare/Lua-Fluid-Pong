@@ -1,0 +1,1 @@
+To play, simply run the bat files to launch the game screen at different sizes.
